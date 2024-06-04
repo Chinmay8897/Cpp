@@ -12,8 +12,6 @@ public:
             if(N%(n%10)==0)
             c++;
             n=n/10;
-            
-            
         }
         return c;
     }
